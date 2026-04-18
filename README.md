@@ -2,7 +2,7 @@
 A place to do find everyday task organising and getting best for yourself all at one place.
 # Life Canvas
 
-**Team - Achievers**  
+ 
 **Aditya Dubey**
 
 Life Canvas is a prototype platform that helps customers plan, manage, and coordinate multiple services from one unified dashboard. Instead of switching between separate apps for food, healthcare, travel, home services, or event planning, the customer can create a structured workflow, assign providers, prioritize tasks, and control how service providers collaborate with each other [web:624][web:633].
