@@ -1,0 +1,18 @@
+[
+  {
+    "task_name": "Book Train",
+    "category": "Travel",
+    "provider": "RailYatri Mock",
+    "dependency": "Independent",
+    "status": "Done",
+    "share_data": true
+  },
+  {
+    "task_name": "Order Food",
+    "category": "Food Delivery",
+    "provider": "Zomato Mock",
+    "dependency": "After previous task",
+    "status": "Done",
+    "share_data": true
+  }
+]
